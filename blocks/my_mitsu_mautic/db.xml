@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema version="0.3">
+    <table name="btMyMitsuMautic">
+        <field name="bID" type="I">
+            <unsigned/>
+            <key/>
+        </field>
+        <field name="firepoint" type="C" />
+        <field name="urlend" type="C" />
+        <field name="mauticurl" type="C" />
+        <field name="firstname" type="C" />
+        <field name="lastname" type="C" />
+        <field name="email" type="C" />
+    </table>
+</schema>
